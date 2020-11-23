@@ -25,3 +25,7 @@ body {
 #seconds {
   font-size: 50px;
 }
+#copy {
+  margin-top: 100px;
+  color: aliceblue;
+}
